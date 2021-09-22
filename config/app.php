@@ -52,8 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', '
-    https://cek-ongkir-app.herokuapp.com/'),
+    'url' => env('APP_URL', 'http://localhost'),
 
     'asset_url' => env('ASSET_URL', null),
 
